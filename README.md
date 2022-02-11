@@ -1,3 +1,3 @@
--Basing SQL Project 
+-Basing SQL Projects
 -Using some Covid data
 -Link to dataset: https://ourworldindata.org/covid-deaths
