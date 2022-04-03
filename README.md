@@ -3,3 +3,4 @@
 3. Pandas Project with Hotel Data
 4. Basic Plots with matplotlib
 5. Exercises with NumPy
+6. My first model training
