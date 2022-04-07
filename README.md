@@ -4,3 +4,4 @@
 4. Basic Plots with matplotlib
 5. Exercises with NumPy
 6. My first model training
+7. Exrecises with plots
