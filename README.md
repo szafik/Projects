@@ -6,3 +6,4 @@
 6. My first model training
 7. Exrecises with plots
 8. Some plots with Seaborn
+9. Visualisation project with pandas and seaborn
